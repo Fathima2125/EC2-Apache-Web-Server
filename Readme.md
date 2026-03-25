@@ -21,7 +21,7 @@ This project demonstrates the setup of a web server using **AWS EC2** and **Apac
    - Port 80 (HTTP)
 3. Connected to the instance using **EC2 Connect** terminal.
 4. Installed and started **Apache HTTP Server**.
-5. Hosted a sample website and verified access through the browser(using the public ipv$ address in instance).
+5. Hosted a sample website and verified access through the browser(using the public ipv4 address in instance).
 6. Documented all **Apache commands** used in a separate file.
 
 ---
